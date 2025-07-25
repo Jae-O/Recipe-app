@@ -1,0 +1,1104 @@
+{
+    "recipe": [
+        {
+            "index": "1",
+            "material": "odm3fP8IeP",
+            "sequence": "",
+            "score": 5,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "2",
+            "material": "bz9QCAIzUJ",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "spicy",
+                "level": "1"
+            }
+        },
+        {
+            "index": "3",
+            "material": "AbjHPP2daE",
+            "sequence": "",
+            "score": 4,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "mild",
+                "level": "3"
+            }
+        },
+        {
+            "index": "4",
+            "material": "MMthxbgBRI",
+            "sequence": "",
+            "score": 0,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "mild",
+                "level": "2"
+            }
+        },
+        {
+            "index": "5",
+            "material": "YSSb76iGxy",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "spicy",
+                "level": "1"
+            }
+        },
+        {
+            "index": "6",
+            "material": "aI7AXfBw1M",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "7",
+            "material": "ImeLpQi4Kr",
+            "sequence": "",
+            "score": 5,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "8",
+            "material": "KN1pkOtTS0",
+            "sequence": "",
+            "score": 4,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "9",
+            "material": "pMQQqAUHgx",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "10",
+            "material": "tsbxdzTYKK",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "11",
+            "material": "FFLifEHUO9",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "mild",
+                "level": "1"
+            }
+        },
+        {
+            "index": "12",
+            "material": "pxUjo9tuBL",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "mild",
+                "level": "1"
+            }
+        },
+        {
+            "index": "13",
+            "material": "L6ttBVbjWW",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "spicy",
+                "level": "1"
+            }
+        },
+        {
+            "index": "14",
+            "material": "hzhHU8xLc5",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "15",
+            "material": "5s0sdC4n07",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "mild",
+                "level": "1"
+            }
+        },
+        {
+            "index": "16",
+            "material": "spVVG7KrvK",
+            "sequence": "",
+            "score": 0,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "spicy",
+                "level": "1"
+            }
+        },
+        {
+            "index": "17",
+            "material": "fkTbDNgUTz",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "spicy",
+                "level": "1"
+            }
+        },
+        {
+            "index": "18",
+            "material": "9pICTEZFTu",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "19",
+            "material": "NKcaDsuvUm",
+            "sequence": "",
+            "score": 5,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "spicy",
+                "level": "1"
+            }
+        },
+        {
+            "index": "20",
+            "material": "PoqTqtUwtg",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "mild",
+                "level": "1"
+            }
+        },
+        {
+            "index": "21",
+            "material": "w7ynSbix4y",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "22",
+            "material": "Yz38oJjAFg",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "mild",
+                "level": "1"
+            }
+        },
+        {
+            "index": "23",
+            "material": "mmRctIUqmD",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "24",
+            "material": "YiGwftUqr9",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "mild",
+                "level": "3"
+            }
+        },
+        {
+            "index": "25",
+            "material": "T9ZlokGQlm",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "spicy",
+                "level": "1"
+            }
+        },
+        {
+            "index": "26",
+            "material": "wnWWTmqcVL",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "mild",
+                "level": "2"
+            }
+        },
+        {
+            "index": "27",
+            "material": "NpgC6wvlpB",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "28",
+            "material": "EARJx3E2n7",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "29",
+            "material": "p9kLMgNLMu",
+            "sequence": "",
+            "score": 5,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "30",
+            "material": "Fnuivu0225",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "31",
+            "material": "qiLbbdyewe",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "32",
+            "material": "Rzcvb6GnkX",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "mild",
+                "level": "2"
+            }
+        },
+        {
+            "index": "33",
+            "material": "k7SYK1Y85l",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "34",
+            "material": "k7Y9N6rNDE",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "35",
+            "material": "MAyGQJh4ao",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "mild",
+                "level": "1"
+            }
+        },
+        {
+            "index": "36",
+            "material": "QEREPNC7kp",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "mild",
+                "level": "2"
+            }
+        },
+        {
+            "index": "37",
+            "material": "5Sl68eG4yU",
+            "sequence": "",
+            "score": 4,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "38",
+            "material": "48SIVZeUha",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "39",
+            "material": "wZZzzskpgq",
+            "sequence": "",
+            "score": 0,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "mild",
+                "level": "2"
+            }
+        },
+        {
+            "index": "40",
+            "material": "9TTgVcxVmA",
+            "sequence": "",
+            "score": 0,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "mild",
+                "level": "1"
+            }
+        },
+        {
+            "index": "41",
+            "material": "tjkIQdnIj4",
+            "sequence": "",
+            "score": 4,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "spicy",
+                "level": "1"
+            }
+        },
+        {
+            "index": "42",
+            "material": "jPatxnbNCF",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "43",
+            "material": "lQ2UeoBILv",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "mild",
+                "level": "3"
+            }
+        },
+        {
+            "index": "44",
+            "material": "qauTgiWBLc",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "45",
+            "material": "WRbZWFB77X",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "mild",
+                "level": "3"
+            }
+        },
+        {
+            "index": "46",
+            "material": "85cALMZOml",
+            "sequence": "",
+            "score": 0,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "spicy",
+                "level": "1"
+            }
+        },
+        {
+            "index": "47",
+            "material": "MGYgRTtkrU",
+            "sequence": "",
+            "score": 4,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "mild",
+                "level": "2"
+            }
+        },
+        {
+            "index": "48",
+            "material": "jg2lx1JYUk",
+            "sequence": "",
+            "score": 5,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "mild",
+                "level": "2"
+            }
+        },
+        {
+            "index": "49",
+            "material": "WjrAdI24vt",
+            "sequence": "",
+            "score": 4,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "mild",
+                "level": "3"
+            }
+        },
+        {
+            "index": "50",
+            "material": "iFUyNi4Fxm",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "mild",
+                "level": "3"
+            }
+        },
+        {
+            "index": "51",
+            "material": "6VZR5RVTzq",
+            "sequence": "",
+            "score": 4,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "52",
+            "material": "jjWzEyo4yo",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "mild",
+                "level": "2"
+            }
+        },
+        {
+            "index": "53",
+            "material": "UDyJriwPQg",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "54",
+            "material": "DTBXZ1184M",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "55",
+            "material": "cOj52JjkMl",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "mild",
+                "level": "1"
+            }
+        },
+        {
+            "index": "56",
+            "material": "3URnQfr7WY",
+            "sequence": "",
+            "score": 4,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "mild",
+                "level": "2"
+            }
+        },
+        {
+            "index": "57",
+            "material": "BGFsV8NwYi",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "58",
+            "material": "WIY9sgxlOB",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "mild",
+                "level": "3"
+            }
+        },
+        {
+            "index": "59",
+            "material": "YpVQcVHLwa",
+            "sequence": "",
+            "score": 0,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "mild",
+                "level": "3"
+            }
+        },
+        {
+            "index": "60",
+            "material": "nqcRzGu0j8",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "61",
+            "material": "lK6E5ziQ5v",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "mild",
+                "level": "2"
+            }
+        },
+        {
+            "index": "62",
+            "material": "iUoLovV3ma",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "63",
+            "material": "mq6bCQAMVz",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "64",
+            "material": "EVtRiaUB6Z",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "mild",
+                "level": "2"
+            }
+        },
+        {
+            "index": "65",
+            "material": "cb99O32N0D",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "66",
+            "material": "FzhvhobZac",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "spicy",
+                "level": "1"
+            }
+        },
+        {
+            "index": "67",
+            "material": "6GjnK7fahD",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "68",
+            "material": "Kwyu6h1HIC",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "69",
+            "material": "ajVl8QVEXA",
+            "sequence": "",
+            "score": 4,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "mild",
+                "level": "1"
+            }
+        },
+        {
+            "index": "70",
+            "material": "pyBYZkDQCz",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "71",
+            "material": "ISI7xeNX7M",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "mild",
+                "level": "3"
+            }
+        },
+        {
+            "index": "72",
+            "material": "KHa6mbHMaU",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "mild",
+                "level": "3"
+            }
+        },
+        {
+            "index": "73",
+            "material": "HxOqhMtblG",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "74",
+            "material": "76JHq20UbH",
+            "sequence": "",
+            "score": 4,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "mild",
+                "level": "1"
+            }
+        },
+        {
+            "index": "75",
+            "material": "L26pGChyzF",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "mild",
+                "level": "3"
+            }
+        },
+        {
+            "index": "76",
+            "material": "pbFrV60MAX",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "77",
+            "material": "j060Ec0OOT",
+            "sequence": "",
+            "score": 4,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "mild",
+                "level": "3"
+            }
+        },
+        {
+            "index": "78",
+            "material": "2gZlzxASNf",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "79",
+            "material": "tMuIeIMMKf",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "mild",
+                "level": "2"
+            }
+        },
+        {
+            "index": "80",
+            "material": "hank0R3FGs",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "spicy",
+                "level": "1"
+            }
+        },
+        {
+            "index": "81",
+            "material": "4zhUgNm0HP",
+            "sequence": "",
+            "score": 4,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "mild",
+                "level": "2"
+            }
+        },
+        {
+            "index": "82",
+            "material": "v8IIQ8ZYN9",
+            "sequence": "",
+            "score": 0,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "mild",
+                "level": "1"
+            }
+        },
+        {
+            "index": "83",
+            "material": "GknVoRf1Y7",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "mild",
+                "level": "3"
+            }
+        },
+        {
+            "index": "84",
+            "material": "vYaMjKOqxE",
+            "sequence": "",
+            "score": 0,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "mild",
+                "level": "1"
+            }
+        },
+        {
+            "index": "85",
+            "material": "lqQ4iPcCMz",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "mild",
+                "level": "1"
+            }
+        },
+        {
+            "index": "86",
+            "material": "3VOzUccuK6",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "87",
+            "material": "PjQ8vdbLdD",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "88",
+            "material": "Ftxxjb56yz",
+            "sequence": "",
+            "score": 5,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "spicy",
+                "level": "1"
+            }
+        },
+        {
+            "index": "89",
+            "material": "dPCBVKA3wZ",
+            "sequence": "",
+            "score": 1,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "mild",
+                "level": "2"
+            }
+        },
+        {
+            "index": "90",
+            "material": "ezjfIKiqsV",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "91",
+            "material": "ullCYRrkAV",
+            "sequence": "",
+            "score": 5,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        },
+        {
+            "index": "92",
+            "material": "BqCfMYaSZ2",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "93",
+            "material": "diGby6xfgy",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Chinese",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "94",
+            "material": "DGENn7yYeH",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "mild",
+                "level": "3"
+            }
+        },
+        {
+            "index": "95",
+            "material": "mESyniZfqR",
+            "sequence": "",
+            "score": 5,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "spicy",
+                "level": "1"
+            }
+        },
+        {
+            "index": "96",
+            "material": "Ya3G0Kw5ME",
+            "sequence": "",
+            "score": 4,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "97",
+            "material": "WdXtQBBQXE",
+            "sequence": "",
+            "score": 5,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "mild",
+                "level": "1"
+            }
+        },
+        {
+            "index": "98",
+            "material": "HBSBtA2gqa",
+            "sequence": "",
+            "score": 5,
+            "hashTag": {
+                "category": "Western",
+                "spiciness": "spicy",
+                "level": "3"
+            }
+        },
+        {
+            "index": "99",
+            "material": "GEoXRtJeRd",
+            "sequence": "",
+            "score": 2,
+            "hashTag": {
+                "category": "Korean",
+                "spiciness": "mild",
+                "level": "2"
+            }
+        },
+        {
+            "index": "100",
+            "material": "vRN1DuEUGf",
+            "sequence": "",
+            "score": 3,
+            "hashTag": {
+                "category": "Japanese",
+                "spiciness": "spicy",
+                "level": "2"
+            }
+        }
+    ]
+}
